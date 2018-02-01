@@ -1,15 +1,28 @@
 # Inboxes
 
-* Calendar
-* Journals
-  * Lab Book
-  * Little black book
+## Frequently
+
 * Email
   * Work
   * Personal
-* `taskwarrior`
-  * +inbox
-  * +today
+* `task +in`
+* IRC
+* Slack
+* Physical Inbox
+
+## Daily
+
+* Journals
+  * Lab Book
+  * Little black book
+* Calendar
+* Phone
+  * Missed calls
+  * Voicemails
+  * Texts
+
+## Weekly
+
 * Owned Properties
   * docs.tmo 
     ([issues](https://github.com/mozilla/firefox-data-docs/issues), 
@@ -17,9 +30,4 @@
   * reports.tmo 
     ([PRs](https://github.com/mozilla/mozilla-reports/pulls))
   * [bugzilla components](https://pinboard.in/u:harterrt/t:ownedbug)
-* Phone
-  * Missed calls
-  * Voicemails
-  * Texts
-* IRC
-* Physical Inbox
+* Personal Journal
