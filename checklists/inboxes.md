@@ -6,6 +6,8 @@
   * Work
   * Personal
 * `task +in`
+* Github
+  * [Pull Requests](https://github.com/pulls/review-requested)
 * IRC
 * Slack
 * Physical Inbox
