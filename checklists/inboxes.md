@@ -32,5 +32,14 @@
      [PRs](https://github.com/mozilla/firefox-data-docs/pulls))
   * reports.tmo 
     ([PRs](https://github.com/mozilla/mozilla-reports/pulls))
+  * docere (
+    [Issues](https://github.com/harterrt/docere/issues),
+    [PRs](https://github.com/harterrt/docere/pulls))
+  * MPR (
+    [Issues](https://github.com/mozilla-services/mozilla-private-reports/issues),
+    [PRs](https://github.com/mozilla-services/mozilla-private-reports/pulls))
+  * St. Mocli (
+    [Issues](https://github.com/mozilla/stmocli/issues),
+    [PRs](https://github.com/mozilla/stmocli/pulls))
   * [bugzilla components](https://pinboard.in/u:harterrt/t:ownedbug)
 * Personal Journal
