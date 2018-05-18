@@ -2,9 +2,18 @@
 
 * Verify no urgent tasks due today
   * `task +today`
-* Clear [inboxes](./inboxes.md)
-* Summarize the day - Wins? Losses?
-* Review calendar and plan morning burst
+* Scan [inboxes](./inboxes.md)
+  * Make sure there's nothing looming for tomorrow
+  * If low energy
+    * Don't process, just scan
+    * Make a todo for the morning  (e.g. `in clear inboxes`)
+* Summarize the day
+  * Wins? Losses?
+  * What did you do?
+  * How long did it take?
+* Plan morning burst
+  * Review Calendar
+  * Review projects from week review
 * Plan evening - review LBB
 * Clear Desk and Screen
 * Say "Done"

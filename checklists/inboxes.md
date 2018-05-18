@@ -26,6 +26,7 @@
 
 ## Weekly
 
+* Evernote
 * Owned Properties
   * docs.tmo 
     ([issues](https://github.com/mozilla/firefox-data-docs/issues), 
