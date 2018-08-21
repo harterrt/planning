@@ -11,6 +11,7 @@
   * Wins? Losses?
   * What did you do?
   * How long did it take?
+  * What could you have delegated?
 * Plan morning burst
   * Review Calendar
   * Review projects from week review
