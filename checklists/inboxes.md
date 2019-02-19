@@ -6,6 +6,7 @@
   * Work
   * Personal
 * `task +in`
+* [todoist.com](todoist.com)
 * Github
   * [Pull Requests](https://github.com/pulls/review-requested)
   * [Reviewed Pull Requests](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+reviewed-by%3Aharterrt+%28org%3Amozilla+or+org%3Amozilla-services%29+)
