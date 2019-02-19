@@ -8,9 +8,9 @@
     * Don't process, just scan
     * Make a todo for the morning  (e.g. `in clear inboxes`)
 * Summarize the day
+  * Was today an "excellent day"?
   * Wins? Losses?
-  * What did you do?
-  * How long did it take?
+  * What did you do? How long did it take?
   * What could you have delegated?
 * Plan morning burst
   * Review Calendar
