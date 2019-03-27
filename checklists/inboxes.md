@@ -7,27 +7,25 @@
   * Personal
 * `task +in`
 * [todoist.com](https://todoist.com)
-* Github
-  * [Pull Requests](https://github.com/pulls/review-requested)
-  * [Reviewed Pull Requests](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+reviewed-by%3Aharterrt+%28org%3Amozilla+or+org%3Amozilla-services%29+)
-* IRC
 * Slack
-* Physical Inbox
 
 ## Daily
 
+* Physical Inbox
 * Journals
   * Lab Book
   * Little black book
-* Calendar
 * Phone
   * Missed calls
   * Voicemails
   * Texts
+* Calendar
 
 ## Weekly
 
-* Evernote
+* Github
+  * [Pull Requests](https://github.com/pulls/review-requested)
+  * [Reviewed Pull Requests](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+reviewed-by%3Aharterrt+%28org%3Amozilla+or+org%3Amozilla-services%29+)
 * Owned Properties
   * docs.tmo 
     ([issues](https://github.com/mozilla/firefox-data-docs/issues), 
@@ -45,3 +43,4 @@
     [PRs](https://github.com/mozilla/stmocli/pulls))
   * [bugzilla components](https://pinboard.in/u:harterrt/t:ownedbug)
 * Personal Journal
+* IRC

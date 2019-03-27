@@ -15,6 +15,9 @@
 * Plan morning burst
   * Review Calendar
   * Review projects from week review
-* Plan evening - review LBB
+* Plan evening
+  * Review LBB
+  * Do you need to work out?
+  * Any habits you're working on?
 * Clear Desk and Screen
 * Say "Done"
