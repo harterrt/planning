@@ -13,6 +13,7 @@
   * What did you do? How long did it take?
   * What could you have delegated?
 * Plan morning burst
+  * What blocks do you have tomorrow? What about 20% work?
   * Review Calendar
   * Review projects from week review
 * Plan evening
