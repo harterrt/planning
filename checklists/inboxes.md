@@ -21,6 +21,3 @@
   * Texts
 * Calendar
 
-## Weekly
-
-* Personal Journal

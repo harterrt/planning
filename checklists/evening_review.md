@@ -2,6 +2,7 @@
 
 * Verify no urgent tasks due today
   * `task +today`
+  * `task due`
 * Scan [inboxes](./inboxes.md)
   * Make sure there's nothing looming for tomorrow
   * If low energy
