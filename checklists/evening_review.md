@@ -9,9 +9,9 @@
     * Make a todo for the morning  (e.g. `in clear inboxes`)
 * Summarize the day
   * Was today an "excellent day"?
-  * Wins? Losses?
   * What did you do? How long did it take?
   * What could you have delegated?
+  * What would have made the day better? (go/better)
 * Plan morning burst
   * What blocks do you have tomorrow? What about 20% work?
   * Review Calendar
