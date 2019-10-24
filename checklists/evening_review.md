@@ -11,7 +11,7 @@
   * Was today an "excellent day"?
   * What did you do? How long did it take?
   * What could you have delegated?
-  * What would have made the day better? (go/better)
+  * What would have made the day better? ([go better](http://go.harterrt.com/better))
 * Plan morning burst
   * What blocks do you have tomorrow? What about 20% work?
   * Review Calendar
