@@ -11,6 +11,7 @@
 * Summarize the day
   * Was today an "excellent day"?
   * What did you do? How long did it take?
+  * How'd you do against your time spent goals?
   * What could you have delegated?
   * Do you have any canonical analyses to note in [ds-tools](http://go.harterrt.com/ds-tools)?
   * Do you have any retention analyses you need to note in [go retention-hopper](http://go.harterrt.com/retention-hopper)?
@@ -23,5 +24,7 @@
   * Review LBB
   * Do you need to work out?
   * Any habits you're working on?
+    * Daily writing! Knock it out or top of list for tomorrow.
+    * Shop time?
 * Clear Desk and Screen
 * Say "Done"

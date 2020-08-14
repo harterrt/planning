@@ -6,7 +6,7 @@
   * Work
   * Personal
 * `task +in`
-* [todoist.com](https://todoist.com)
+* Social Slack channels
 
 ## Daily
 
