@@ -10,8 +10,6 @@
     * Make a todo for the morning  (e.g. `in clear inboxes`)
 * Summarize the day
   * Was today an "excellent day"?
-  * What did you do? How long did it take?
-  * How'd you do against your time spent goals?
   * What could you have delegated?
   * Do you have any canonical analyses to note in [ds-tools](http://go.harterrt.com/ds-tools)?
   * Do you have any retention analyses you need to note in [go retention-hopper](http://go.harterrt.com/retention-hopper)?
