@@ -15,6 +15,7 @@
   * Lab Book
   * Little black book
   * jrnl
+* `syncin` (i.e. `Documents/Inbox`)
 * Phone
   * Missed calls
   * Voicemails
