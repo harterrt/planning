@@ -5,8 +5,9 @@
 * Email
   * Work
   * Personal
+  * Fastmail
+* Slack
 * `task +in`
-* Social Slack channels
 
 ## Daily
 
