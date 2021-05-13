@@ -16,6 +16,7 @@
   * Was today an "excellent day"?
   * What makes you happy?
   * What could you have delegated?
+  * What work did you do? Could you improve that process?
   * Did you get any wins on your goals? Note in [go goals](https://docs.google.com/document/d/1VhctfQXCvFnu_08MH4xTy_olpWWLtKZRGw-xmf2NS7k/edit#)
 * Plan evening
   * Review LBB
