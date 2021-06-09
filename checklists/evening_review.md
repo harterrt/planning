@@ -20,9 +20,9 @@
   * Did you get any wins on your goals? Note in [go goals](https://docs.google.com/document/d/1VhctfQXCvFnu_08MH4xTy_olpWWLtKZRGw-xmf2NS7k/edit#)
 * Plan evening
   * Review LBB
-  * Do you need to work out?
   * Any habits you're working on?
-    * Daily writing! Knock it out or top of list for tomorrow.
-    * Shop time?
+    * Daily writing! 20m freewrite, 20m sensemaking after reading
+    * Do you need to work out?
+    * Then **you win**!
 * Clear Desk and Screen
 * Say "Done"
