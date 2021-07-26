@@ -6,7 +6,7 @@
   * Work
   * Personal
   * Fastmail
-* Slack
+* Slack Saved Messages
 * `task +in`
 
 ## Daily
