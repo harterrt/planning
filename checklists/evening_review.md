@@ -4,8 +4,8 @@
   * `task +today`
   * `task due`
 * Plan morning burst
-  * What blocks do you have tomorrow? What about 20% work?
   * Review Calendar
+  * What blocks do you have tomorrow? What about 20% work?
   * Review projects from week review
 * Scan [inboxes](./inboxes.md)
   * Make sure there's nothing looming for tomorrow
@@ -16,7 +16,7 @@
   * Was today an "excellent day"?
   * What makes you happy?
   * What could you have delegated?
-  * What work did you do? Could you improve that process?
+  * What took a lot of time? Could you improve that project? Flag it for review.
   * Did you get any wins on your goals? Note in [go goals](https://docs.google.com/document/d/1VhctfQXCvFnu_08MH4xTy_olpWWLtKZRGw-xmf2NS7k/edit#)
 * Plan evening
   * Review LBB
