@@ -19,4 +19,6 @@
 * Journals
   * Lab Book
   * Little black book
-* Physical Inbox
+* Physical Inboxes
+  * Office
+  * Living Room
