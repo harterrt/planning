@@ -4,7 +4,7 @@
   * `task +today`
   * `task due`
 * Plan morning burst
-  * Review Calendar
+  * Review calendars (work, gmail, fastmail)
   * What blocks do you have tomorrow? What about 20% work?
   * Review projects from week review
 * Scan [inboxes](./inboxes.md)
